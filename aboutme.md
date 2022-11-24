@@ -4,4 +4,4 @@
 
 - I’m currently a student.
 
-- I'm really interested in custom scripts in games nowadays.
+- I'm interested in game cheats and developing small exploits for the games.
