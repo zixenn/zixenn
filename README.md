@@ -10,6 +10,7 @@ To install games w/out torrenting, you can use these sites below:
 - https://gog-games.com/ - This site has untouched GOG Games, no need for cracking.
 - https://online-fix.me/ - Download games with multiplayer/steamworks fixes to play w/ friends. Their discord: https://discord.gg/S8NEEHgucp
 
+W/ torrenting:
 
 ## Repacks
 
