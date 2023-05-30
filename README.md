@@ -2,7 +2,7 @@
 
 Welcome, friend. So if you're having any issues with games crashing you need to install [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) and [DirectX.](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
-To install games w/out torrenting, you can use these sites below:
+To install games w/dd, you can use these sites below:
 
 ## Direct Downloads
 
@@ -18,7 +18,8 @@ W/ torrenting:
 - http://www.kapitalsin.com/forum/index.php?board=4.0
 - https://www.elamigos-games.com/
 
-## Downloading Torrents and Media fastest way
+## Downloading Torrents and Media (fastest way is FDM)
 
 Use [Free Download Manager](https://www.freedownloadmanager.org/)
+Use [Vuze](https://www.vuze.com)
 
