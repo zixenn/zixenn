@@ -21,5 +21,5 @@ W/ torrenting:
 ## Downloading Torrents and Media (fastest way is FDM)
 
 Use [Free Download Manager](https://www.freedownloadmanager.org/)
-Use [Vuze](https://www.vuze.com)
+or [Vuze](https://www.vuze.com)
 
