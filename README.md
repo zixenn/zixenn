@@ -1,16 +1,12 @@
 ### Welcome to my profile.
 
-Welcome, friend. So if you're having any issues with games crashing you need to install [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) and [DirectX.](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+Welcome, friend. If you're having any issues with games crashing you need to install [XNA Framework](https://www.microsoft.com/en-us/download/details.aspx?id=20914) and [DirectX.](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
-To install games w/dd, you can use these sites below:
-
-## Direct Downloads
+## DD
 
 - https://steamrip.com/
 - https://gog-games.com/ - This site has untouched GOG Games, no need for cracking.
 - https://online-fix.me/ - Download games with multiplayer/steamworks fixes to play w/ friends. Their discord: https://discord.gg/S8NEEHgucp
-
-W/ torrenting:
 
 ## Repacks
 
